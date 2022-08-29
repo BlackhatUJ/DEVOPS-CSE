@@ -1,4 +1,0 @@
-3sem.txt
-password.txt
-*.png
-
